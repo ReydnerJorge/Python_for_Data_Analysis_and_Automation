@@ -1,9 +1,10 @@
-> Origem do Python
-    - Python nasceu em 1989 como um hobby, do programador Guido Van Rossum. A ideia inicial era dar continuidade a linguagem ABC, que era desenvolvida no CWI (Centro de pesquisa Holandês).
-        -> Linguagem fácil e intuitiva
-        -> Código aberto, para que todos possam contribuir
-        -> Código inteligível quanto inglês
-        -> Adequada para tarefas diárias, e produtiva!
+- Origem do Python:
+     Python nasceu em 1989 como um hobby, do programador Guido Van Rossum. A ideia inicial era
+     dar continuidade a linguagem ABC, que era desenvolvida no CWI (Centro de pesquisa Holandês).
+        - Linguagem fácil e intuitiva
+        - Código aberto, para que todos possam contribuir
+        - Código inteligível quanto inglês
+        - Adequada para tarefas diárias, e produtiva!
     
     - Primeira versão  (1991)
         - Python 0.9.0 já tinha:
